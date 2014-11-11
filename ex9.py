@@ -12,3 +12,8 @@ With the three doublequotes.
 We'll be able to type as much as we like.
 Even 4 lines if we want, or 5, or 6. 
 """
+
+today = "Monday"
+tomorrow = "Tuesday"
+today_tomorrow = "mondaytuesday"
+print "Today is %s %s" % (today_tomorrow)
